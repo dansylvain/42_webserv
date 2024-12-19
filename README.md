@@ -157,9 +157,9 @@ While the `webserv` project demonstrates the fundamentals of an HTTP server, it 
 
 This project was developed by the following contributors:
 
-- **Florian VERGE** ([@flverge](https://github.com/maitreverge)) – Responsible for implementing the core server logic and handling HTTP request parsing.
-- **Sébastien VIDOT** ([@svidot](https://github.com/sierra182)) – Focused on the server configuration system, sockets, core UNIX sys-calls and error handling.
-- **Dan SYLVAIN** ([@dsylvain](https://github.com/dansylvain)) – Worked on CGI support, config file parsing, dynamic content handling and responsible for the test-driven development.
+- **Florian VERGE** ([@flverge](https://github.com/maitreverge)) – Specialized in server configuration, testing processes, response generation, and error management.
+- **Sébastien VIDOT** ([@svidot](https://github.com/sierra182)) – Focused on implementing core server logic, managing UNIX system calls, and integrating CGI support.
+- **Dan SYLVAIN** ([@dsylvain](https://github.com/dansylvain)) – Responsible for configuration file parsing, HTTP request handling, and leading test-driven development.
 
 The project started in September 2024 and was completed over the course of ten weeks.
 
